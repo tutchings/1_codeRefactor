@@ -1,0 +1,34 @@
+- Change <div class="header"> to regular header tag.
+- Change the header class selectors in css to header tag selectors
+- Change title to "Horiseon Search Engine Optimization 2020." This title has important keywords such as the name of the company, SEO, and the fact that it is updated to 2020.
+- Double Checked header tags to ensure there is only 1 <h1> at the top of the page, and the rest are in decending order from there. The original format of the html followed these qualifications.
+- Added descriptive alt tags so that search engines are informed and users know what the image was supposed to be in case it does not load properly in their browser. Alt tags help with accessibility also as screen readers will read the alt tags for those that are blind.
+- Fixed the incorrect img tag for the cost management image. Img tags are self closing but this tag was not.
+- Changes the hero div from a div to an img tag and changed the class name to something more descriptive of the image
+- Gave the seo meeting image a descriptive alt tag
+- Changed the copyright in the footer from 2019 to 2020
+- Changed the content section from a div tag to a section tag for proper semantics and improved SEO
+- Changed the divs within the content section from divs to articles as they are all independent pieces of information within the overall content section
+- Changed the benefits section (the sidebar) from a div to a section tag for proper semantics and improved SEO
+- Changed the divs within the benefits sidebar from divs to asides as they are pieces of information that are stored in a sidebar that indirectly relate to the main content section of the page.
+- Changed the footer section from a div with a footer class to a regular footer tag.
+- Changed the header class selectors in css to header tag selectors.
+- Changed the menu section in the header from a div to a nav tag for proper semantics and improved SEO
+- Changed the header div selectors in CSS to be header nav selectors.
+- Ensured no shortcuts were used in the website's content like dashes, abbreviations, or slang was used to improve accesibility and make it easier for screen readers.
+- Added title tags to images and links on the page for increased accessibility, SEO, and information for users.
+- Changed Search Engine Optimization section from a class to an id
+- Fixed the search engine optimization class selectors in CSS to be id selectors
+- Ensured the language was declared under the html declaration to help the screen readers for added accessibility.
+- Added main tags around the main content of the page for proper semantics and improved SEO.
+- Added styling to the main html element in CSS.
+- Added reset.css sheet and linked to sheet in HTML for added cross-browser compatibility
+- Edited some of the css to fix some of the styles that the reset sheet canceled.
+- Combined some CSS selectors that were repeated between several classes to obtimize the code.
+- Created a common class for the three articles to share as well as an ID for each so that the styles that are common between the three can be selected with the class whereas the unique styles for each article can be targeted individually.
+- Created a common class for the three sidebar sections to share as well as an ID for each so that the styles that are common between the three can be selected with the class whereas the unique styles for each sidebar section can be targeted individually.
+- Reorganized the CSS to sort between class selectors, element selectors, etc. for easier troubleshooting.
+- Also reorganized CSS to be sorted by the order they appear on the page for easier troubleshooting.
+- Added comments in CSS
+- Added comments in HTMl
+- Added type text/css to the linked style sheets so that the browser doesn't have to guess the type of linked sheet.
